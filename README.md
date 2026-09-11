@@ -1,6 +1,8 @@
 # DS-SQL
 
 SQL/
+<br> ├── 🟢 Resource/W3 School/https://www.w3schools.com/sql/
+<br> ├── 🟢 Resource/https://www.youtube.com/watch?v=SSKVgrwhzus
 <br> ├── 🟢 Beginner/
 <br> │   ├── 01-Introduction-to-SQL/
 <br> │   ├── 02-Setup-Environment/
