@@ -35,9 +35,9 @@ SQL/
 <br> │   └── 10-Performance-Tips/
 <br> │
 <br> └── 🧪 Projects/
-    ├── 01-SQL-Data-Warehouse/
-    │   ├── Bronze/
-    │   ├── Silver/
-    │   └── Gold/
-    ├── 02-EDA/
-    └── 03-Advanced-Data-Analytics/
+<br> |   ├── 01-SQL-Data-Warehouse/
+<br> │   ├── Bronze/
+<br> │   ├── Silver/
+<br> │   └── Gold/
+<br> ├── 02-EDA/
+<br> └── 03-Advanced-Data-Analytics/
